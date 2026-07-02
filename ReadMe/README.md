@@ -1,12 +1,12 @@
 # Road-Accident-Analysis-India
-## Power BI | SQL | Excel | Power Query | DAX | Data Visualization
+### Power BI | SQL | Excel | Power Query | DAX | Data Visualization
 
-### Project Overview:
+## Project Overview:
 Road accidents remain one of India's most critical public safety challenges, leading to significant loss of life and economic productivity each year. This project analyzes national road accident data from 2021–2024 to uncover trends, identify high-risk regions, and examine behavioural, infrastructural, demographic, and environmental factors contributing to accidents.
 
 The project follows a complete Business Intelligence workflow—from raw Excel datasets to an interactive Power BI dashboard—culminating in data-driven policy recommendations aimed at improving road safety.
 
-### Business Objective:
+## Business Objective:
 The objectives of this project are to:
 
 - Analyze national road accident trends across Indian states
@@ -16,7 +16,7 @@ The objectives of this project are to:
 - Evaluate the impact of road type, weather, time of day, and junction design
 - Provide actionable, data-driven recommendations for policymakers
 
-### Tech Stack:
+## Tech Stack:
 | Tool | Purpose |
 |------|---------|
 |Microsoft Excel|Initial data inspection|
@@ -25,10 +25,10 @@ The objectives of this project are to:
 |Power BI	|Dashboard development|
 |DAX	|KPI calculations & dynamic measures|
 
-### Source:
+## Source:
 [Ministry of Road Transport & Highways (MoRTH), Government of India]( https://www.data.gov.in/catalog/road-accidents-india-2024?page=2 )
 
-#### Data Coverage:
+### Data Coverage:
 - Road Accidents (2021–2024)
 - Fatal Accidents
 - Fatalities
@@ -42,7 +42,7 @@ The objectives of this project are to:
 - Vehicle Load Condition
 - Time of Accident
 
-### Data Preparation and Modelling
+## Data Preparation and Modelling
 A significant portion of this project was dedicated to data preparation and modeling to ensure accuracy, consistency, and usability across all dashboards. The raw datasets required extensive cleaning and transformation before they could be effectively analyzed.
 
 Unnecessary and redundant columns were removed to streamline the datasets and improve performance. Data types were standardized across all tables to maintain consistency, and missing or inconsistent values were handled to ensure data reliability.
@@ -55,7 +55,7 @@ Overall, the data preparation phase laid a strong foundation for the entire proj
 
 The raw datasets required extensive preprocessing before analysis.
 
-### Data Cleaning
+## Data Cleaning
 - Removed inconsistencies and duplicate records
 - Standardised state names
 - Handled missing values
@@ -63,27 +63,53 @@ The raw datasets required extensive preprocessing before analysis.
 - Created calculated fields for accident density and mortality rates
 - Data Modelling
 
-### Implemented a Star Schema:
+## Implemented a Star Schema:
 
 ![Accident Analysis Star Schema](image.png)
 
-### Dashboard Overview:
+## Dashboard Overview:
 
-#### Executive Summary
+### Executive Summary
 - Provides a high-level overview of national accident trends.
 ![Executive Summary](<Accident Summary.jpg>)
-#### Road Infrastructure Analysis
+### Road Infrastructure Analysis
 - Focuses on accident distribution across road categories.
 ![Road Infrastructure Analysis](<Road Summary.jpg>)
-#### Accident Cause Analysis
+### Accident Cause Analysis
 - Analyzes behavioural and vehicle-related causes.
 ![Accident Cause Analysis](<Accident Causes-1.jpg>)
-#### Driver Demographics
+### Driver Demographics
 - Examines demographic characteristics of drivers and victims.
 ![Driver Demographics](<Driver Demographics.jpg>)
-#### Road & Environmental Analysis
+### Road & Environmental Analysis
 - Analyzes accident patterns based on external conditions. 
 ![Road & Environment Analysis](<Road and Environment Analysis.jpg>)
-#### Strategic Recommendations
+### Strategic Recommendations
 - Transforms analytical insights into prioritized, actionable policy recommendations.
 ![Recommendations](Recommendations.jpg)
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- ETL (Extract, Transform, Load)
+- Data Modelling
+- Data Warehousing Concepts
+- Microsoft Excel
+- Power Query
+- DAX
+- SQL Analysis
+- KPI Design
+- Dashboard Development
+- Data Storytelling
+- Business Intelligence
+- Policy-Oriented Analytics
+- Data Validation & Quality Assurance
+- Exploratory Data Analysis (EDA)
+- Performance Optimization
+
+## Future Improvements
+- Incorporate district-level accident data
+- Integrate GIS-based hotspot analysis
+- Include predictive accident risk modelling
+- Add real-time traffic and weather integration
+- Develop machine learning models for accident forecasting
