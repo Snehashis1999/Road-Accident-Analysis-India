@@ -88,6 +88,13 @@ The raw datasets required extensive preprocessing before analysis.
 - Transforms analytical insights into prioritized, actionable policy recommendations.
 ![Recommendations](Recommendations.jpg)
 
+## Key Insights
+- Road accidents increased by 18.4% between 2021 and 2024, although annual growth has slowed
+- Overspeeding accounted for approximately 75% of all traffic violation-related accidents
+- National Highways recorded the highest fatality rate despite contributing a smaller share of total accidents
+- Goa had the highest accident density (~725 accidents per lakh population), while Tamil Nadu reported the highest total accidents
+- Drivers aged 25–35 years, particularly male drivers, were involved in the majority of accidents
+
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
