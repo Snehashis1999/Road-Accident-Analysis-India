@@ -49,8 +49,6 @@ Unnecessary and redundant columns were removed to streamline the datasets and im
 
 Primary keys were generated for each table to uniquely identify records, enabling accurate relationships between datasets. A well-structured star schema was designed, with a central fact table connected to multiple dimension tables such as customers, merchants, transactions, and time. This structure ensured efficient querying, scalability, and seamless integration within Power BI.
 
-Additionally, data normalization and standardization were applied to maintain uniform formats across attributes like transaction types, merchant categories, and customer segments. These steps were critical in enabling accurate aggregations, filtering, and cross-dashboard analysis.
-
 Overall, the data preparation phase laid a strong foundation for the entire project, ensuring that all insights and visualizations are built on clean, structured, and reliable data.
 
 The raw datasets required extensive preprocessing before analysis.
