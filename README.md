@@ -65,7 +65,7 @@ The raw datasets required extensive preprocessing before analysis.
 
 ## Implemented a Star Schema:
 
-![Accident Analysis Star Schema](image.png)
+![Accident Analysis Star Schema](<Star Schema.png>)
 
 ## Dashboard Overview:
 
@@ -77,7 +77,7 @@ The raw datasets required extensive preprocessing before analysis.
 ![Road Infrastructure Analysis](<Road Summary.jpg>)
 ### Accident Cause Analysis
 - Analyzes behavioural and vehicle-related causes.
-![Accident Cause Analysis](<Accident Causes-1.jpg>)
+![Accident Cause Analysis](<Accident Causes.jpg>)
 ### Driver Demographics
 - Examines demographic characteristics of drivers and victims.
 ![Driver Demographics](<Driver Demographics.jpg>)
